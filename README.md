@@ -1,52 +1,92 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable & Devin AI System Prompts, Tools & AI Models**  
+<p align="center">
+  <sub>Thanks to</sub>  
+</p>
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable & Devin AI system prompts and internal tools.**
+<p align="center">
+  <a href="https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship">
+    <img src="assets/latitude-dark.png" alt="Latitude Logo" width="700"/>
+  </a>
+</p>
 
-📜 Over **5,500+ lines** of insights into their structure and functionality.  
+<div align="center" markdown="1">
 
-## 📂 **Available Files**
-- **v0 Folder**  
-- **Manus Folder**
-- **Same.dev Folder**
-- **Lovable Folder**
-- **Devin AI Folder**
-- **Cursor Folder**  
-   - cursor ask.txt *(coming soon!)*  
-   - cursor edit.txt *(coming soon!)*  
+### [Issue Tracking for AI Agents](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)  
+[Open Source Monitoring platform](https://latitude.so/?utm_source=github&utm_medium=readme&utm_campaign=sponsorship)
+
+</div>
 
 ---
 
-## 🛡️ **Security Notice for AI Startups**
-
-⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
-
-🔐 **Interested in securing your AI systems?**  
-Check out **ZeroLeaks**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
-
-🔗 **Contact Us here:** 
-
-- X: NotLucknite
----
-
-## 🛠 **Roadmap & Feedback**
-
-🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
-Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
-
-🆕 **LATEST UPDATE:** 17/04/2025
-
-## 📊 **Star History**
-
-<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
- </picture>
+<a href="https://discord.gg/NwzrWErdMU" target="_blank">
+  <img src="https://img.shields.io/discord/1402660735833604126?label=LeaksLab%20Discord&logo=discord&style=for-the-badge" alt="LeaksLab Discord" />
 </a>
 
-## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
 
-⭐ **Drop a star if you find this useful!**
+<a href="https://trendshift.io/repositories/14084" target="_blank"><img src="https://trendshift.io/api/badge/repositories/14084" alt="x1xhlol%2Fsystem-prompts-and-models-of-ai-tools | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
+
+[![Build Status](https://app.cloudback.it/badge/x1xhlol/system-prompts-and-models-of-ai-tools)](https://cloudback.it)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+---
+
+## Support the Project
+
+If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project.
+
+You can show your support via:
+
+- **Cryptocurrency:**  
+  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`  
+  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`  
+  - **ETH:** `0x3f844B2cc3c4b7242964373fB0A41C4fdffB192A`
+- **Patreon:** https://patreon.com/lucknite
+- **Ko-fi:** https://ko-fi.com/lucknite
+
+Thank you for your support!
+
+---
+
+## Security Notice for AI Startups
+
+> **Warning:** If you're an AI startup, make sure your data is secure. Exposed prompts or AI models can easily become a target for hackers.
+
+> **Important:** Interested in securing your AI systems?  
+> Check out **[ZeroLeaks](https://zeroleaks.ai/)**, a service designed to help startups **identify and secure** prompt injection and system prompt extraction risks.
+
+---
+
+# Sponsors
+
+Sponsor the most comprehensive repository of AI system prompts and reach thousands of developers.
+
+[Get Started](mailto:lucasvalbuena@pm.me)
+
+---
+
+## Roadmap & Feedback
+
+> Open an issue.
+
+> **Latest Update:** 10/05/2026
+
+---
+
+## Connect With Me
+
+- **X:** [NotLucknite](https://x.com/Lucknite)
+- **Discord**: `x1xhlol`
+- **Email**: `lucasvalbuena@pm.me`
+
+
+## Star History
+
+<a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=x1xhlol/system-prompts-and-models-of-ai-tools&type=Date" />
+  </picture>
+</a>
+
+**Drop a star if you find this useful!**
