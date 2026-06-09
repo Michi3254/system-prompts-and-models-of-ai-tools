@@ -12,6 +12,30 @@ source_repo: x1xhlol/system-prompts-and-models-of-ai-tools
 >
 > Ziel: Wir lernen, wie die besten Produkte ihre Agenten instruieren — und stehlen die Muster für eigene Prompts, Agenten und Tools.
 
+```mermaid
+mindmap
+  root((AI Knowledge Base))
+    Prompt Engineering
+      Structure und Skeleton
+      Constraints und Guardrails
+      Communication Style
+      Persona und Identity
+      Formatting und Output
+      Citation und Factuality
+      Safety und Injection
+    Agent Design
+      Agent Loop und Planning
+      Code-Editing Workflow
+      Context und Memory
+      Clever Patterns
+    Tool Design
+      Tool Schema Design
+      Common Tools Reference
+    Templates
+      System Prompt Template
+      Tool Schema Template
+```
+
 ## 🗺️ Karte der Inhalte
 
 ### Prompt Engineering
