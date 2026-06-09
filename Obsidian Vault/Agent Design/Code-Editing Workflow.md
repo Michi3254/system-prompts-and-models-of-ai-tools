@@ -8,6 +8,17 @@ tags: [agents, coding, editing, workflow]
 > [!summary]
 > Universeller Vier-Phasen-Loop: **Read → Plan → Edit → Verify.** Kernprinzipien: erst verstehen, dann **minimal** ändern, danach **sofort** testen.
 
+```mermaid
+flowchart LR
+    R[1. Read<br/>semantic search<br/>→ grep → read] --> P[2. Plan<br/>Tasks zerlegen<br/>Dateien festlegen]
+    P --> E[3. Edit<br/>minimaler Diff<br/>keep existing code]
+    E --> V[4. Verify<br/>Lint + Test<br/>sofort]
+    V --> Q{Fehler?}
+    Q -- ja, < 3 Versuche --> E
+    Q -- ja, ≥ 3 Versuche --> U[User fragen]
+    Q -- nein --> D([Stop:<br/>Anfrage erfüllt])
+```
+
 ## 1. Discovery (read-only)
 - Erst **semantisch** suchen, dann `grep` für exakte Treffer
 - Dateien lesen, um Muster zu verstehen (Imports, Library-Wahl, Stil)

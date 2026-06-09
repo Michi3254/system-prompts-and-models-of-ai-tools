@@ -8,6 +8,22 @@ tags: [agents, agent-loop, planning, todo, parallelization]
 > [!summary]
 > Agenten laufen in einer Schleife: **analysieren → Tool wählen → beobachten → iterieren → abschließen**. Fortschritt wird über Todo-Listen und kurze Statusupdates sichtbar gemacht. Unabhängige Tool-Calls laufen **parallel**.
 
+```mermaid
+flowchart TD
+    A([User-Anfrage]) --> B[Analyze Events<br/>Bedarf + Zustand]
+    B --> C[Select Tool<br/>nächsten Call wählen]
+    C --> D{Mehrere<br/>unabhängige Ops?}
+    D -- ja --> E[Parallel-Batch<br/>3-5 Tools]
+    D -- nein --> F[Einzel-Call]
+    E --> G[Wait + Observe<br/>Ergebnisse]
+    F --> G
+    G --> H[Todo aktualisieren<br/>+ 1-3 Satz Status]
+    H --> I{Aufgabe<br/>erfüllt?}
+    I -- nein --> C
+    I -- ja --> J[Submit Results<br/>+ Abschluss-Summary]
+    J --> K([Standby])
+```
+
 ## Die Schleife (Manus, kanonisch)
 
 1. **Analyze Events** — User-Bedarf + aktuellen Zustand verstehen
